@@ -45,3 +45,9 @@
 ---
 
 Thank you for visiting! Feel free to contact me for any collaboration or project. 😊
+---
+
+<h3 align="center" style="font-family: Arial, sans-serif; font-size: 20px; color: #00D310;">
+    Yahya Sanbati
+</h3>
+
