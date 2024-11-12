@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,aws,c,cs,github,mongodb,mysql,notion,ps,postgres,powershell,,pycharm,py,raspberrypi,sklearn,tensorflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,aws,c,cs,github,mongodb,mysql,notion,postgres,powershell,pycharm,py,raspberrypi,sklearn,tensorflow,visualstudio,vscode" />
   </a>
 </p>
 
