@@ -37,7 +37,7 @@
 - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sanbati_yahya/)
 
 ---
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANBATI-YAHYA&bg_color=000000&color=ffffff&line=2e8b57&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANBATI-YAHYA&bg_color=000000&color=ffffff&line=2e8b57&point=ffffff&area=true&hide_border=false)](https://github.com/SANBATI-YAHYA/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
