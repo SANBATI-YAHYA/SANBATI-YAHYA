@@ -25,13 +25,17 @@
 - **R**: Statistical analysis, modeling, and data visualization. 📊
 - **SQL**: Complex queries and database management to extract key insights. 💾
 - **C**: Knowledge in low-level programming and data structures. 🖥️
-
+-**LangChain**: Building AI applications with LLM integration. 🤖
+-**LangRaph**: Graph-based data modeling and analysis. 🌐
+  
 ### Tools & Technologies
 - **Power BI**: Creating interactive dashboards and dynamic reports for data visualization. 📊
 - **Excel**: Advanced formulas, pivot tables, and data analysis. 📈
 - **Git**: Version control and collaboration on GitHub. 🗂️
 - **Arduino**: Experience in electronics and programming for robotics projects. 🤖
 - **Talend**: Data integration and ETL (Extract, Transform, Load) for processing large datasets. 🔄
+-**Oracle Administration**: Managing and maintaining Oracle databases. 🗄️
+- **SQL**: Developer: Client tool for database development and querying. 💻
 
 ### Machine Learning & Artificial Intelligence
 - **Scikit-Learn**: Implementing machine learning algorithms for prediction and classification. 🤖
@@ -74,12 +78,19 @@ A comprehensive analysis where we explore mental health and depression data to i
 
 [![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANBATI-YAHYA&bg_color=000000&color=ffffff&line=2e8b57&point=ffffff&area=true&hide_border=false)](https://github.com/SANBATI-YAHYA/github-readme-activity-graph)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANBATI-YAHYA/SANBATI-YAHYA/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/SANBATI-YAHYA/SANBATI-YAHYA/output/snake.svg" alt="Snake animation">
+  </picture>
+</p>
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,cs,github,mongodb,mysql,postgres,powershell,pycharm,py,raspberrypi,sklearn,tensorflow,visualstudio,vscode,django,r" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,cs,github,mongodb,mysql,postgres,powershell,pycharm,py,raspberrypi,sklearn,tensorflow,visualstudio,vscode,django,r,linux" />
   </a>
 </p>  
 
