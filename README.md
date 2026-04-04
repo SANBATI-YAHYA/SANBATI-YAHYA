@@ -52,11 +52,11 @@ I'm passionate about transforming raw data into actionable insights. I specializ
 
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANBATI-YAHYA&layout=pie&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANBATI-YAHYA&show_icons=true&layout=donut&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANBATI-YAHYA&layout=compact&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310" alt="Languages Compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANBATI-YAHYA&layout=compact&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310&langs_count=8" alt="Languages Compact" />
 </p>
 
 ---
@@ -173,9 +173,7 @@ An in-depth analysis exploring mental health and depression data among students,
   <strong>📧 Contact me via LinkedIn, Instagram, or WhatsApp above</strong>
 </p>
 
-<p align="center">
-  <strong>⭐ If you find my work interesting, consider giving it a star! ⭐</strong>
-</p>
+
 
 ---
 
