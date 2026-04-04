@@ -46,17 +46,19 @@ I'm passionate about transforming raw data into actionable insights. I specializ
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SANBATI-YAHYA&theme=dark&background=000000&stroke=00D310&ring=00D310&fire=00D310&currStreakNum=ffffff&sideNums=00D310&dates=ffffff" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANBATI-YAHYA&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANBATI-YAHYA&show_icons=true&layout=donut&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310" alt="Top Languages" />
-</p>
+### 📈 Top Languages Used
 
+| Language | Proficiency | Usage |
+|----------|------------|-------|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Advanced | 45% |
+| <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" /> | Advanced | 25% |
+| <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> | Intermediate | 15% |
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> | Intermediate | 10% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Beginner | 5% |
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANBATI-YAHYA&layout=compact&theme=dark&bg_color=000000&title_color=00D310&text_color=ffffff&border_color=00D310&langs_count=8" alt="Languages Compact" />
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','SQL','R','C','JavaScript'],datasets:[{data:[45,25,15,10,5],backgroundColor:['%233776AB','%23CC2927','%23276DC3','%23A8B9CC','%23F7DF1E']}]},options:{plugins:{legend:{position:'right'}}}}" alt="Language Distribution" width="500" />
 </p>
 
 ---
