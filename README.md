@@ -138,7 +138,6 @@ An in-depth analysis exploring mental health and depression data among students,
 
 ---
 
-## 📊 Activity & Contributions
 
 <p align="center">
   <picture>
